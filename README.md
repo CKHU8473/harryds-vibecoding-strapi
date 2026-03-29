@@ -2,7 +2,7 @@
 
 Strapi CMS with PostgreSQL, pre-configured for one-click deployment on Zeabur.
 
-[![Deploy on Zeabur](https://zeabur.com/button.svg)](https://zeabur.com/templates/7YJAKW)
+[![Deploy on Zeabur](https://zeabur.com/button.svg)](https://zeabur.com/templates/ASKMLJ)
 
 ## 1) One-click Deploy (No Code)
 
